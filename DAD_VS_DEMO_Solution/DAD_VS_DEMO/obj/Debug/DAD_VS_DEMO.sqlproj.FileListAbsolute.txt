@@ -1,0 +1,10 @@
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\bin\Debug\DAD_VS_DEMO.dacpac
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\bin\Debug\DAD_VS_DEMO.dll
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\bin\Debug\DAD_VS_DEMO.pdb
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\obj\Debug\DAD_VS_DEMO.sqlprojAssemblyReference.cache
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\obj\Debug\DAD_VS_DEMO.dll
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\obj\Debug\DAD_VS_DEMO.pdb
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\obj\Debug\Model.xml
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\obj\Debug\refactor.xml
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\obj\Debug\postdeploy.sql
+C:\Users\Lach\Desktop\Schoolwork Swinburne\Database Analysis Design\S2W6 DB_Project_Demo\DAD_VS_DEMO_Solution\DAD_VS_DEMO\obj\Debug\predeploy.sql
